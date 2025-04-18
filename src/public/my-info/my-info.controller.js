@@ -1,0 +1,1 @@
+// Controller for my-info view

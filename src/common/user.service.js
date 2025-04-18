@@ -1,0 +1,1 @@
+// AngularJS service to store user info
